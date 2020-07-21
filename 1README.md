@@ -70,6 +70,7 @@ printf format string refers to a control parameter used by a class of functions 
         <a href="https://medium.com/@1839" target="_blank">
             <img alt="medium_page" src="https://github.com/gedafu/readme-template/blob/master/images/medium.png" style="float: center; margin-right: 10px" height="50" width="50">
 			<h2 align="left">Made by Andres Felipe Barrera</h2>
+			</a>
 			<p align="left">
         <a href="https://twitter.com/codesectest" target="_blank">
             <img alt="twitter_page" src="https://github.com/gedafu/readme-template/blob/master/images/twitter.png" style="float: center; margin-right: 10px" height="50" width="50">
