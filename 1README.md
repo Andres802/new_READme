@@ -1,13 +1,13 @@
 <p align="center">
   <img src="https://www.holbertonschool.com/holberton-logo.png" width="360"/>
- <h1 align="center">0x11.C -printf project- C ProgramminG</h1>
+ <h1 align="center">0x11.C -printf project- C Programming</h1>
  <br>
  <p align="center">
  </p>
 </p>
 
 --- 
-In this project, We build  our own printf function version  [Cisfun]
+In this project we build  our own printf function version  [Cisfun]
 0x11. C - printf
 
 Foundations - Low-level programming & Algorithm ― Hatching out
@@ -30,7 +30,7 @@ printf format string refers to a control parameter used by a class of functions 
 ##|File|Description
 ---|---|---
 1|[README.md](./README.md)|...
-2|[_printf.c - Function of our own printf ](./0x00-hello_world)|...
+2|[_printf.c - Function of our own printf ](./_printf.c)|...
 3|[printf_ops.c - Functios operator for each argument](./0x01-variables_if_else_while)|...
 4|[printf_struct - Data Structure of our own printf function ](./0x02-functions_nested_loops)|...
 5|[printf_valid - Conditions for validation the format of our own printf function ](./0x03._debugging )|...
