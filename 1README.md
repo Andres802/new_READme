@@ -82,6 +82,7 @@ printf format string refers to a control parameter used by a class of functions 
         </a>
         <a href="https://medium.com/@andres.bpulido" target="_blank">
             <img alt="medium_page" src="https://github.com/gedafu/readme-template/blob/master/images/medium.png" style="float: center; margin-right: 10px" height="50" width="50">
+			 </a>
 </p>
 
 <p align="center">
