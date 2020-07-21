@@ -1,10 +1,8 @@
 <p align="center">
   <img src="https://www.holbertonschool.com/holberton-logo.png" width="360"/>
- <h1 align="center">0x11.C -printf project- C Programming</h1>
+ <h1 align="center">0x11.C -printf project- C ProgramminG</h1>
  <br>
  <p align="center">
-    <a href="https://github.com/ellerbrock/open-source-badges/">
-        <img alt="bash" src="https://badges.frapsoft.com/bash/v1/bash.png?v=103" target="_blank" />
  </p>
 </p>
 
@@ -21,7 +19,7 @@ Project to be done in teams of 2 people  Team: Andres Barrera, Oscar Javier De L
 
 > Printf function in C.
 
-Printf format string refers to a control parameter used by a class of functions in the input/output libraries of C and many other programming languages. The string is written in a simple template language: characters are usually copied literally into the function's output, but format specifiers, which start with a % character, indicate the location and method to translate a piece of data (such as a number) to characters.
+printf format string refers to a control parameter used by a class of functions in the input/output libraries of C and many other programming languages. The string is written in a simple template language: characters are usually copied literally into the function's output, but format specifiers, which start with a % character, indicate the location and method to translate a piece of data (such as a number) to characters.
 
 "printf" is the name of one of the main C output functions, and stands for "print formatted". printf format strings are complementary to scanf format strings, which provide formatted input (parsing). In both cases these provide simple functionality and fixed format compared to more sophisticated and flexible template engines or parsers, but are sufficient for many purposes.
 
