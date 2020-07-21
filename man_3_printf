@@ -1,0 +1,72 @@
+man 3 _PRINTF "21 JULY 2020" "Holberton School Colombia"
+NAME
+_Printf
+    _Printf functions in the _printf family produce output according to a format as described below
+SYNOPSIS
+  printf Function with one mandatory argument FORMAT shown as follows:
+  int _printf(const char *format, ...); 
+DESCRIPTION
+    
+    The functions:
+    In the _printf family produce output according to a format as described below. The functions and write output to stdout; write output to the given output stream; and write to the character string.
+    
+    Return value:
+    Upon successful return, these functions return the number of characters printe(excluding the null byte used to end output to strings).
+    
+    Format of the format string:
+    The format string is a character string, beginning and ending in its initial shift state, if any. The format string is composed of zero or more directives: ordinary characters (not %), which are copied unchanged to the output stream; an conversion specifications, each of which results in fetching zero or more subsequent arguments. Each conversion specification is introduced by the character %, and ends with a conversion specifier. In between there may be (in this order zero or more flags, an optional minimum field width, an optional precision an an optional length modifier.
+    
+    Conversion Specifiers:
+    The format string is a character string, beginning and ending in its initial shift state, if any.
+
+    The character % is followed by zero or more of the following flags:
+    
+    Print a character.
+    Print a single integer.
+    Print a decimal numberPrint a string.
+    Print a binary.
+    Print reverse.
+    Print ROT13.
+    Print and unsigned number.
+    Print Octal.
+    Print Hexadecimal.
+EXAMPLES
+   _printf("String:[%s]\n", "I am a string !");
+   String:[I am a string !]
+
+   len = _printf("Let's try to printf a simple sentence.\n");
+   Length:[39, 39]
+
+   _printf("Negative:[%d]\n", -762534);
+   Negative:[-762534]
+   
+   _printf("Unsigned:[%u]\n", ui);
+   Unsigned:[2147484671]
+
+   _printf("Unsigned octal:[%o]\n", ui);
+    Unsigned octal:[20000001777]
+
+    _printf("Unsigned hexadecimal:[%x, %X]\n", ui, ui);
+    Unsigned hexadecimal:[800003ff, 800003FF]
+
+    _printf("Character:[%c]\n", 'H');
+    Character:[H]
+
+    _printf("Address:[%p]\n", addr);
+    Address:[0x7ffe637541f0]
+
+    len = _printf("Percent:[%%]\n");
+    Percent:[%]
+
+    _printf("Unknown:[%r]\n");
+    Len:[12]
+
+SEE ALSO
+    printf(), scanf(), fprintf(), sprintf(), vfprintf()
+BUGS
+  Not known
+AUTHOR
+   Oscar de Leon Giraldo - https://github.com/serosc95
+   Andres Felipe Barrera - https://github.com/Andres802
+COPYRIGHT
+    All copyrights reserved ©
