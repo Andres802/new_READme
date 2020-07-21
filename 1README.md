@@ -12,9 +12,9 @@ In this project, We build  our own printf function version  [Cisfun]
 
 Foundations - Low-level programming & Algorithm ― Hatching out
 
-by Oscar de Leon and Andres Barrera, students at Holberton School
+by Oscar de Leon Giraldo and Andres Barrera Pulido, students at Holberton School
 
-Project to be done in teams of 2 people  Team: Andres Barrera, Oscar Javier De Leon Giraldo 
+Team: Andres Barrera, Oscar Javier De Leon Giraldo 
 
 
 > Printf function in C.
@@ -69,13 +69,13 @@ printf format string refers to a control parameter used by a class of functions 
             <img alt="medium_page" src="https://github.com/gedafu/readme-template/blob/master/images/medium.png" style="float: center; margin-right: 10px" height="50" width="50">
         </a>
 		<p align="right">
-        <a href="https://twitter.com/codesectest" target="_blank">
+        <a href="https://twitter.com/oscardeleon95" target="_blank">
             <img alt="twitter_page" src="https://github.com/gedafu/readme-template/blob/master/images/twitter.png" style="float: center; margin-right: 10px" height="50" width="50">
         </a>
-        <a href="https://www.linkedin.com/in/andresbpulido/" target="_blank">
+        <a href="https://www.linkedin.com/in/oscar-javier-de-le%C3%B3n-giraldo-aa712515b/" target="_blank">
             <img alt="linkedin_page" src="https://github.com/gedafu/readme-template/blob/master/images/linkedin.png" style="float: center; margin-right: 10px" height="50"  width="50">
         </a>
-        <a href="https://medium.com/@andres.bpulido" target="_blank">
+        <a href="https://medium.com/@1839" target="_blank">
             <img alt="medium_page" src="https://github.com/gedafu/readme-template/blob/master/images/medium.png" style="float: center; margin-right: 10px" height="50" width="50">
         </a>
       </p>
